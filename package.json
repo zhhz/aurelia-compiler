@@ -25,7 +25,11 @@
     "jshint": "jshint src task test gulpfile.js"
   },
   "dependencies": {
-    "npm-check-updates": "^1.5.1"
+    "child-process-promise": "^1.1.0",
+    "deep-extend": "^0.4.0",
+    "npm-check-updates": "^1.5.1",
+    "require-dir": "^0.3.0",
+    "yargs": "^3.19.0"
   },
   "devDependencies": {
     "aurelia-tools": "^0.1.7",
